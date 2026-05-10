@@ -4,6 +4,8 @@
 This is our CPSC 449 final project.
 It is a Spring Boot backend REST API for a movie watchlist. It uses PostgreSQL for the database, JWT authentication with Spring Security, and it runs from Docker.
 
+- Youtube video link: https://youtu.be/lhnSFRuebg4
+
 # Group Information
 
 
